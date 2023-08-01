@@ -102,11 +102,11 @@ export const POKEMONS: Pokemon[] = [
     },
     {
         id: 11,
-        name: "Nidorino",
+        name: "NidoKing",
         hp: 21,
         cp: 5,
         picture: "https://www.pokepedia.fr/images/thumb/5/5f/Nidoking-RFVF.png/250px-Nidoking-RFVF.png",
-        types: ["Poisson"],
+        types: ["Feu"],
         created: new Date()
     }
 ];
